@@ -13,26 +13,30 @@ font-family: Gotham SSm A,Gotham SSm B,HelveticaNeue,Helvetica Neue,Helvetica,Ar
   padding-bottom: .5rem;
 }
 .tit {
+  margin-top: .5rem;
   font-size: 1.75rem;
   margin-top: .125rem;
 }
 
 #macky {
+  margin-top:60%;
   width: 100%;
   height: 27%;
 }
 .subir {
-margin-top: 0;
+  top: -10%;
+margin-bottom: 5%;
 }
 .segundo {
-  top: 10%;
+ top:20%;
   width: 40%;
   height: 25%;
 }
 .primer {
+  top: 0;
   width: 40%;
   height: 25%;
-  top: -4%;
+
 
 }
 
