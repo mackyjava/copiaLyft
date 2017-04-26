@@ -18,19 +18,18 @@ header{
 	padding-bottom: 2%;
 	border-color: #d8dce6;
 	position: fixed;
-	position: relative;
+	background-color: #333447;
 }
 li{
 	list-style: none;
 }
-.link:hover{
-	list-style: none;
-}
-
 .link{
 	text-decoration: none;
 	margin-right:  2%;
 	padding: 5px 8px 5px 10px;
+}
+a:hover{
+	list-style: none;
 }
 .fondoBlanco{
 	background-color: white;
