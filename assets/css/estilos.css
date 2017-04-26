@@ -52,3 +52,92 @@ margin-top: 0;
   	margin-right: 30%;
 
 }
+
+video {
+  width: 100%;
+  display: inline-block;
+
+}
+.primera {
+  padding-bottom: : 0;
+  margin-bottom: : 0;
+}
+#forma {
+  background: #fff;
+  position: absolute;
+  margin-top: -45%;
+  margin-left: 60%;
+  align-content: center;
+  padding: 3% 8% 3% 5%;
+}
+
+.titulos {
+  color: #352384;
+  font-size: 1.7rem;
+  line-height: .5;
+}
+
+.letraChica {
+  font-size: 15px;
+}
+
+.numero {
+  margin-top: 10%;
+  font-size: 15px;
+  border: none;
+}
+
+.linea {
+  width: 25rem;
+  color: #352384;
+}
+
+.becomeDriver {
+  font-size: 15px;
+  display: inline-block;
+  margin-top: 5%;
+  padding: 5%;
+  color: #fff;
+  background: #ff00bf;
+  border-radius: 10px;
+}
+
+.signUp {
+  text-decoration: underline;
+  margin-left: 5%;
+  border: none;
+  font-size: 15px;
+  background: none;
+  color: #728099;
+}
+
+.signUp:hover {
+  color: #ff00bf;
+}
+
+.info {
+  font-size: .7rem;
+  font-family: helvetica;
+  color: #728099;
+}
+p>a {
+  color:#ff00bf;
+}
+
+.infoAngie {
+  width: 100%;
+  display: flex;
+  margin-top: 0;
+  padding-top: 0;
+  background: linear-gradient( to top,#2b1e66, #76278f);
+
+}
+.parrafos {
+  color: #fff;
+}
+
+div>img {
+  margin-top: 25%;
+  margin-left: 30%;
+  width: 28rem;
+}
