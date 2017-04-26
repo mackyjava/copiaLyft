@@ -228,3 +228,7 @@ a:hover{
 #imagenVideo1{
   width: 100%;
 }
+
+.limpar{
+  clear: right;
+}
