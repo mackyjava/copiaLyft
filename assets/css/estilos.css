@@ -4,7 +4,10 @@
 }
 
 #textoVideo2{
+  margin-top: 3.5%;
   margin-left: 65%;
+  width: 23%;
+  border: 1px solid black;
 }
 
 #video2{
