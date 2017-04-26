@@ -6,7 +6,7 @@ function reproducirvideo3(){
   var imagenvideo3 = document.getElementById("imagensenor");
   imagenvideo3.style.display= "none";
   var video3= document.getElementById("video3");
-
+}
 
 var video1= document.getElementById("primerVideo");
 video1.addEventListener("click", reproducirVideo1);
