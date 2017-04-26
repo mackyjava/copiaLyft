@@ -1,0 +1,12 @@
+.videoDiv > video{
+  width: 100%;
+  height: 100%;
+}
+
+#textoVideo2{
+  margin-left: 65%;
+}
+
+#video2{
+  	margin-right: 30%;
+}

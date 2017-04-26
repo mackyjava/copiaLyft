@@ -8,9 +8,15 @@ body{
 div>h3{
 	text-transform: uppercase;
 }
+.textoVideo{
+	position: absolute;
+	width: 35%;
+	padding: 5%;
+}
 
 .videoDiv{
-	width: 70%;
+	position: absolute;
+	width: 65%;
 	background-image: url();
 }
 .ocultar{
