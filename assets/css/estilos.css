@@ -117,7 +117,6 @@ video {
 
 .info {
   font-size: .7rem;
-  font-family: helvetica;
   color: #728099;
 }
 p>a {
@@ -132,8 +131,21 @@ p>a {
   background: linear-gradient( to top,#2b1e66, #76278f);
 
 }
-.parrafos {
+.infoApp {
   color: #fff;
+  display: block;
+  margin-left: 10%;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+
+h3 {
+  font-size: 2rem;
+}
+.parrafo {
+  margin-top: 10%;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 div>img {
