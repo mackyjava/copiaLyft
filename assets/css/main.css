@@ -10,9 +10,17 @@ div>h3{
 }
 .textoVideo{
 	position: absolute;
-	width: 35%;
+	width
+=======
+: 35%;
 	padding: 5%;
 }
+
+.espaciado{
+	letter-spacing: 1.5px;
+}
+
+
 .videoDiv{
 	position: absolute;
 	width: 65%;
