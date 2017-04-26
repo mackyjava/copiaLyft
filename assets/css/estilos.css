@@ -1,0 +1,40 @@
+.letra{
+font-family: Gotham SSm A,Gotham SSm B,HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+}
+
+.margen{
+  margin-left: 5%;
+}
+.sub {
+  font-weight: 500;
+  font-size: .875rem;
+  top: 0;
+  padding-bottom: .5rem;
+}
+.tit {
+  font-size: 1.75rem;
+  margin-top: .125rem;
+}
+
+#macky {
+  width: 100%;
+  height: 27%;
+  position: relative;
+}
+.subir {
+margin-top: 0;
+}
+.segundo {
+  top: 10%;
+  width: 40%;
+  height: 25%;
+}
+.primer {
+  width: 40%;
+  height: 25%;
+  top: -4%;
+
+}
+.flex{
+  display: flex;
+}
